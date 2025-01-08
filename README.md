@@ -1,7 +1,7 @@
 # Destoyer Hub | Script Hub
 
 ### **Discord Tab**
-- Destroyer Hub | Community
+- [Destroyer Hub | Community](https://discord.gg/gamesdest)
 
 ### **Blox Fruits Tab**
 - Auto Farm Fruits (PC/Mobile)
