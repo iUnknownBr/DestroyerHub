@@ -45,7 +45,8 @@
 - ESP (PC/Mobile)
 - Infinite Yield (PC/Mobile)
 - Unc Test (PC/Mobile)
-
+- Speed Walk
+- Jump Power
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/iUnknownBr/DestroyerHub/refs/heads/main/Main'))()
 ```
